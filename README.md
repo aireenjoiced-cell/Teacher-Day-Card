@@ -12,7 +12,7 @@ HTML5 - Semantic structure
 CSS3 - Advanced animations and 3D transforms
 JavaScript - Interactive functionality
 🎪HOW TO USE;
-
+open the live site(https://aireenjoiced-cell.github.io/Teacher-Day-Card/)
 ✏️CUSTOMIZATION;
 Edit index.html -Update new 
 Edit style.css - Change color, fonts, layout
